@@ -1,0 +1,19 @@
+.nav_btn {
+  border-radius: 16px;
+  padding: 4px 22px;
+  width: 73px;
+  height: 52px;
+  border: none;
+  background: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav_btn_title {
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 120%;
+  text-align: center;
+}
