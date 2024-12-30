@@ -16,11 +16,11 @@ html {
   overflow: hidden;
 }
 
-*,
+/* *,
 *::before,
 *::after {
   box-sizing: inherit;
-}
+} */
 
 body {
   margin: 0 auto;
@@ -60,4 +60,10 @@ img {
   height: auto;
   max-width: 100%;
   object-fit: cover;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100svh;
 }

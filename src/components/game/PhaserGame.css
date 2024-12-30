@@ -1,0 +1,15 @@
+#game-container {
+  width: 90%;
+  border: 15px solid #361c6b;
+  position: absolute;
+  /* left: 50%;
+  transform: translate(-50%, 50%); */
+
+  bottom: 13%;
+  margin: 0 auto;
+  border-radius: 8px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
